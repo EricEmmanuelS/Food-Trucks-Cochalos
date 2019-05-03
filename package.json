@@ -55,9 +55,7 @@
         "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+"
       },
       "cordova-plugin-ionic-keyboard": {},
-      "cordova-plugin-geolocation": {
-        "GEOLOCATION_USAGE_DESCRIPTION": "To locate you"
-      }
+      "cordova-plugin-geolocation": {}
     },
     "platforms": [
       "android"
