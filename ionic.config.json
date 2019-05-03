@@ -1,0 +1,8 @@
+{
+  "name": "FoodTrucks",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "657d0463"
+}
